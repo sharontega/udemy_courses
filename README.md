@@ -1,5 +1,1 @@
-The dataset was gotten from kaggle.
-
-The project is about different courses offered in udemy.
-
-The data was cleaned and maipulated on power query and was visualised using powerbi.
+The dataset was acquired from Kaggle and pertains to various courses available on Udemy. The data underwent cleaning and manipulation processes using Power Query, and insights were visually presented using Power BI for enhanced data visualization.
